@@ -12,21 +12,10 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
 public class Ch13Activity1 extends AppCompatActivity {
-
-
-
     private EditText ip;
-
-
-
     private EditText port;
 
-
-
     @Override
-
-
-
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
